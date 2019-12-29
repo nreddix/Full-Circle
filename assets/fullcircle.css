@@ -1,11 +1,17 @@
-h1 {
+ h1 {
+    background: rgb(255, 243, 220);
+    position: fixed;
+    top: 5pt;
+    right: 490px;
+    padding: 10px;
     text-align: center;
     color: rgb(86, 131, 2);
-    font-family: pacifico;
+    font-family: Exo;
 }
 
 #intro {
     text-align: center;
-    color: rgb(250, 210, 165);
-    font-family: ;
+    color: rgb(255, 243, 220);
+    background: 
+
 }
